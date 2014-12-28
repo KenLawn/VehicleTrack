@@ -1,4 +1,4 @@
 VehicleTrack
 ============
 
-A vehicle tracking algorithm
+Vehicle tracking based on SIFT matching and trajectories clustering
